@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "categories": ["Skins", "Packs", "DLC"],
+  "items": [
+    {
+      "id": "emerald-dev-team",
+      "name": "Emerald Dev Team",
+      "author": "Emerald Team",
+      "description": "A skin pack with the skins of every Emerald Team member.",
+      "category": "Skins",
+      "thumbnail": "https://raw.githubusercontent.com/Emerald-Legacy-Launcher/Workshop/main/assets/emerald-team/emerald-thumb.png",
+      "downloadUrl": "https://raw.githubusercontent.com/Emerald-Legacy-Launcher/Workshop/main/assets/emerald-team/EmeraldSkinPack.zip",
+      "version": "1.0.0"
+    }
+  ]
+}
