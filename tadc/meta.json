@@ -1,0 +1,12 @@
+{
+  "id": "tadc", // ID
+  "name": "The Amazing Digital Circus", // Name
+  "author": "silvaz",
+  "description": "A bunch of TADC skins taken from online ported to LCE. Credits shown in game.", // Description
+  "category": ["Skin", "DLC"], // Category
+  "thumbnail": "thumbnail.png", // Thumbnail filename
+  "zips": {
+    "tadc.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
