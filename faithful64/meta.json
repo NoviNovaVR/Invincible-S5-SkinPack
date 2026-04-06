@@ -1,0 +1,12 @@
+{
+  "id": "faithful64", // ID
+  "name": "Faithful 64x", // Name
+  "author": "jakobisnow", // Author
+  "description": "Faithful recreates Minecraft's original textures in higher resolutions while staying true to their original look and feel. Ported to LCE.", // Description
+  "category": ["Texture", "DLC"], // Category
+  "thumbnail": "thumbnail.png", // Thumbnail filename
+  "zips": {
+    "texture.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
