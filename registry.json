@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-04-06T09:44:39.492Z",
+  "count": 1,
+  "packages": [
+    {
+      "id": "temp",
+      "name": "My Awesome Mod",
+      "author": "neoapps-dev",
+      "description": "Adds back Ruby items",
+      "category": [
+        "Mod",
+        "DLC"
+      ],
+      "thumbnail": "thumbnail.png",
+      "zips": {
+        "ruby.zip": "",
+        "texture.zip": "{MediaDir}/DLC"
+      },
+      "version": "1.0.1"
+    }
+  ]
+}
