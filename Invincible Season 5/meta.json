@@ -1,0 +1,12 @@
+{
+  "id": "Invincible", // ID
+  "name" Invincible Season 5 Skin Pack", // Name
+  "author": "NoviNova",
+  "description": "This is a collection of most of the characters in Invincible Season 5, all are taken from online.", // Description
+  "category": ["Skin", "DLC"], // Category
+  "thumbnail": "invincible_sp_pic.png", // Thumbnail filename
+  "zips": {
+    "Invincible Season 5.zip"  "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
